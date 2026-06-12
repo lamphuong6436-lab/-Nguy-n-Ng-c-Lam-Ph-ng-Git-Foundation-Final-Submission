@@ -2,7 +2,7 @@
 
 ## 1. Thông tin học viên & Dự án
 - **Khóa học:** Git Foundations (Microsoft Learn - GitHub Foundations)
-- **Học viên:** Nguyễn Ngọc Lâm Phương
+- **Học viên:** Nguyễn Ngọc Lam Phương
 - **Tên kho lưu trữ (Repository):** `git-safety-foundation`
 
 ---
